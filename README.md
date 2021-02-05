@@ -1,5 +1,5 @@
 # BruhlandGame
-Değişik bir oyun .dn\
-Daha geliştirme aşamasıdadır.
-Buglar vb. düzeltilecek.
-Hikaye tabanlı olacak.
+Değişik bir oyun .d\
+Daha geliştirme aşamasıdadır.\
+Buglar vb. düzeltilecek.\
+Hikaye tabanlı olacak.\
