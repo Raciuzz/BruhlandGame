@@ -3,6 +3,6 @@ Değişik bir oyun .d\
 Daha geliştirme aşamasıdadır.\
 Buglar vb. düzeltilecek.\
 Hikaye tabanlı olacak.\
-Yapımcı: Onur Gürkan.
+__Yapımcı: Onur Gürkan.__\
 
 https://github.com/Raciuzz/BruhlandGame/releases
