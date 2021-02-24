@@ -22,4 +22,4 @@ https://github.com/Raciuzz/BruhlandGame/releases
 - __Depolama__: 200 mb kullanılabilir alan.
 
 # Yama Notları
-- [Türkçe](DeğişikliklerTR.md/)
+- [Türkçe](YamaNotlarıTr.md/)
