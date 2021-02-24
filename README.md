@@ -1,9 +1,9 @@
 # BruhlandGame
 [![BruhLand Banner](https://www.linkpicture.com/q/Bruhland-Game-Banner.png)](https://github.com/Raciuzz/BruhlandGame/releases)
-- Değişik bir oyun .d\
-- Daha geliştirme aşamasıdadır.\
-- Buglar vb. düzeltilecek.\
-- Hikaye tabanlı olacak.\
+- Değişik bir oyun .d
+- Daha geliştirme aşamasıdadır.
+- Buglar vb. düzeltilecek.
+- Hikaye tabanlı olacak.
 - __Yapımcı: `Onur Gürkan`.__
 
 - [Sürümler](https://github.com/Raciuzz/BruhlandGame/releases)
@@ -15,10 +15,10 @@
 - [WebSite](https://onurgurkan.weebly.com/)
 
 # Minimum Sistem Gereksinimleri
-- __İşletim Sistemi__: Windows 8\
-- __İşlemci__: Intel Core i3-2350 veya eşdeğeri.\
-- __Bellek__: 512 Mb RAM.\
-- __Ekran Kartı__:\
+- __İşletim Sistemi__: Windows 8.
+- __İşlemci__: Intel Core i3-2350 veya eşdeğeri.
+- __Bellek__: 512 Mb RAM.
+- __Ekran Kartı__: 512 mb VRAM.
 - __Depolama__: 200 mb kullanılabilir alan.
 
 # Yama Notları
