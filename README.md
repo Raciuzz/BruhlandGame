@@ -6,7 +6,7 @@
 - Hikaye tabanlı olacak.\
 - __Yapımcı: `Onur Gürkan`.__
 
-https://github.com/Raciuzz/BruhlandGame/releases
+- [Sürümler](https://github.com/Raciuzz/BruhlandGame/releases)
 
 # Linkler
 - [YouTube](https://www.youtube.com/OnurGurkan)
