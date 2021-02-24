@@ -12,4 +12,4 @@ https://github.com/Raciuzz/BruhlandGame/releases
 -İşlemci: Intel Core i3-2350 veya eşdeğeri.\
 -Bellek: 512 Mb RAM.\
 -Ekran Kartı:\
--Depolama: 200 mb kullanılabilir alan.\
+-Depolama: 200 mb kullanılabilir alan.
