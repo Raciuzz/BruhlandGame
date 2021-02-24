@@ -1,5 +1,5 @@
 # BruhlandGame
-![BruhLand Banner](https://ibb.co/5KyzxZt)
+![BruhLand Banner](https://www.linkpicture.com/q/Bruhland-Game-Banner.png)
 - Değişik bir oyun .d\
 - Daha geliştirme aşamasıdadır.\
 - Buglar vb. düzeltilecek.\
