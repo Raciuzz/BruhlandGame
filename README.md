@@ -1,5 +1,5 @@
 # BruhlandGame
-![BruhLand Banner](https://www.linkpicture.com/q/Bruhland-Game-Banner.png)
+[![BruhLand Banner](https://www.linkpicture.com/q/Bruhland-Game-Banner.png)](https://github.com/Raciuzz/BruhlandGame/releases)
 - Değişik bir oyun .d\
 - Daha geliştirme aşamasıdadır.\
 - Buglar vb. düzeltilecek.\
