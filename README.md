@@ -21,5 +21,5 @@ https://github.com/Raciuzz/BruhlandGame/releases
 - __Ekran Kartı__:\
 - __Depolama__: 200 mb kullanılabilir alan.
 
-# Değişiklikler
+# Yama Notları
 - [Türkçe](DeğişikliklerTR.md/)
