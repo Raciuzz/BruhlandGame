@@ -4,7 +4,7 @@
 - Daha geliştirme aşamasıdadır.
 - Buglar vb. düzeltilecek.
 - Hikaye tabanlı olacak.
-- __Yapımcı: `[Onur Gürkan](https://www.youtube.com/channel/UC2853ynkG6CJGxYWHByAGrg)`.__
+- __Yapımcı: [`Onur Gürkan`](https://www.youtube.com/channel/UC2853ynkG6CJGxYWHByAGrg) .__
 
 - [Sürümler](https://github.com/Raciuzz/BruhlandGame/releases)
 
