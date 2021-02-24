@@ -21,4 +21,4 @@ https://github.com/Raciuzz/BruhlandGame/releases
 - __Depolama__: 200 mb kullanılabilir alan.
 
 # Değişiklikler
-- [Türkçe](.DeğişikliklerTR.md/)
+- [Türkçe](DeğişikliklerTR.md/)
