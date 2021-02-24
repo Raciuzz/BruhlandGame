@@ -1,5 +1,5 @@
 # BruhlandGame
-![BruhLand Banner](https://discord.com/channels/712560031370969109/714061140782612553/814110636811354142)
+![BruhLand Banner](https://imgur.com/a/31tcXIH)
 - Değişik bir oyun .d\
 - Daha geliştirme aşamasıdadır.\
 - Buglar vb. düzeltilecek.\
