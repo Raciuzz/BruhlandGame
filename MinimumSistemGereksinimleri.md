@@ -1,0 +1,2 @@
+Minimum Sistem Gereksinimleri
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
